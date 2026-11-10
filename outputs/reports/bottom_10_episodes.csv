@@ -1,0 +1,11 @@
+show_id,title,platform,genre,release_year,season_number,episode_number,episode_duration_min,pacing_score,hook_strength,dialogue_density,visual_intensity,avg_watch_percentage,pause_count,rewind_count,skip_intro,cognitive_load,attention_required,night_watch_safe,drop_off,drop_off_probability,retention_risk,engagement_score,drop_off_binary,pacing_group,cognitive_group,pause_group,rewind_group
+SHOW_0628,Synthetic_Show_0628,ViewNow,Sci-Fi,2022,2,7,27,1.09,3.36,3.03,1.61,39.89,1,1,Yes,2.72,Low,Yes,0,0.3942,Medium,28.076,0,Low Pacing,Low,Low Pause,Low Rewind
+SHOW_0258,Synthetic_Show_0258,ViewNow,Crime,2019,1,11,62,3.92,1.21,7.55,3.2,36.26,0,0,Yes,4.78,Medium,No,1,0.6007,Medium,31.164,1,Low Pacing,Medium,Low Pause,Low Rewind
+SHOW_0972,Synthetic_Show_0972,ViewNow,Action,2022,1,3,54,3.13,1.0,6.05,3.2,48.84,4,2,Yes,4.66,Medium,Yes,0,0.5101,Medium,34.196,0,Low Pacing,Medium,Medium Pause,Low Rewind
+SHOW_0488,Synthetic_Show_0488,ViewNow,Thriller,2022,2,1,33,1.67,1.3,6.12,5.7,42.49,1,4,Yes,6.75,Medium,No,1,0.6079,Medium,34.336000000000006,1,Low Pacing,Medium,Low Pause,Medium Rewind
+SHOW_0983,Synthetic_Show_0983,Hotstar,Family,2022,2,15,51,2.44,1.0,7.22,3.94,50.78,1,0,No,7.93,High,Yes,1,0.5843,Medium,35.072,1,Low Pacing,High,Low Pause,Low Rewind
+SHOW_0167,Synthetic_Show_0167,Hotstar,Family,2025,1,17,48,4.09,1.56,4.52,5.23,33.5,0,2,Yes,5.48,Medium,Yes,0,0.4945,Medium,35.16,0,Medium Pacing,Medium,Low Pause,Low Rewind
+SHOW_0957,Synthetic_Show_0957,StreamPlus,Thriller,2025,2,17,39,3.88,1.0,7.91,2.61,51.89,1,2,Yes,4.8,Medium,Yes,1,0.4107,Medium,35.736,1,Low Pacing,Medium,Low Pause,Low Rewind
+SHOW_0024,Synthetic_Show_0024,CinePlay,Sci-Fi,2022,2,8,33,1.05,4.08,7.61,4.95,41.03,0,0,Yes,4.95,Medium,Yes,0,0.2722,Low,36.572,0,Low Pacing,Medium,Low Pause,Low Rewind
+SHOW_0563,Synthetic_Show_0563,ViewNow,Reality,2026,2,16,44,5.2,1.38,6.6,1.52,52.13,0,2,No,5.9,Medium,Yes,0,0.2943,Low,37.052,0,Medium Pacing,Medium,Low Pause,Low Rewind
+SHOW_0896,Synthetic_Show_0896,ViewNow,Crime,2020,1,3,41,3.35,2.59,4.88,5.53,36.59,0,2,Yes,4.7,Medium,Yes,1,0.4931,Medium,37.576,1,Low Pacing,Medium,Low Pause,Low Rewind

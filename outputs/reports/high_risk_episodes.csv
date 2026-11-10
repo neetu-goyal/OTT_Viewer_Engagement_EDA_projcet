@@ -1,0 +1,3 @@
+show_id,title,platform,genre,release_year,season_number,episode_number,episode_duration_min,pacing_score,hook_strength,dialogue_density,visual_intensity,avg_watch_percentage,pause_count,rewind_count,skip_intro,cognitive_load,attention_required,night_watch_safe,drop_off,drop_off_probability,retention_risk,engagement_score,drop_off_binary
+SHOW_0455,Synthetic_Show_0455,StreamPlus,Crime,2018,1,8,74,6.99,2.11,7.32,5.43,36.72,3,1,No,7.67,High,Yes,1,0.7662,High,43.748000000000005,1
+SHOW_0870,Synthetic_Show_0870,ViewNow,Romance,2018,1,1,54,4.73,6.1,6.36,8.04,35.43,6,2,Yes,8.09,High,No,1,0.6784,High,51.912,1
